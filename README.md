@@ -88,8 +88,8 @@ A aplicação utiliza uma arquitetura em MVC, implementada com Node.js, MongoDB,
 ### **Passos para Execução**
 1. Clone o repositório e acesse o diretório:
    ```bash
-   git clone https://github.com/svcguilherme/tech-challenge02
-   cd tech-challenge02
+   git clone https://github.com/liviagcmoura/postech-fase03-backend
+   cd backend
    ```
 
 2. Instale as dependências:
